@@ -18,4 +18,4 @@ Alternatively take a look at the [Reddit community](https://www.reddit.com/r/Ope
 If things aren't clear, get in touch on [Twitter](https://twitter.com/MycetOS) (vastly preferred, since it's public) or email (non-preferred, because private. It's opensourcemycetoma@gmail.com).
 
 # Who is MycetOS?
-Anyone can be an equal partner. It was started by Wendy van de Sande (Erasmus University Medical Center, Rotterdam), Ben Perry (@MrBenGP) and Jean-Robert Ioset (Drugs for Neglected Diseases Initiative, Geneva) and Matthew Todd (The University of Sydney, @mattoddchem).
+Anyone can be an equal partner. It was started by Wendy van de Sande (Erasmus University Medical Center, Rotterdam), Ben Perry (@MrBenGP) and Jean-Robert Ioset (Drugs for Neglected Diseases Initiative, Geneva) and Matthew Todd (The University of Sydney, @mattoddchem). Contact person on Github is @mattodd.
