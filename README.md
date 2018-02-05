@@ -13,7 +13,7 @@ The molecules related to the project are all in a [spreadsheet](http://tinyurl.c
 Background to the project will gradually be placed on the wiki (link above), but each series of molecules will have its own wiki in its own repository.
 
 # What Can You Do?
-Take a look at the [preprint of the first paper](https://www.biorxiv.org/content/early/2018/02/02/258905). Head over to the area ("repository") that deals with the first series of molecules we're looking at, and see if you can help with any of the active Issues.
+Take a look at the [preprint of the first paper](https://www.biorxiv.org/content/early/2018/02/02/258905). Head over to the [area ("repository") that deals with the first series of molecules we're looking at](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols), and see if you can help with any of the active Issues.
 Alternatively take a look at the [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma).
 If things aren't clear, get in touch on [Twitter](https://twitter.com/MycetOS) (vastly preferred, since it's public) or email (non-preferred, because private. It's opensourcemycetoma@gmail.com).
 
