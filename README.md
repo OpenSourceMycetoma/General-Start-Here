@@ -2,7 +2,7 @@
 MycetOS is a science project aimed at discovering new medicines for the treatment of a terrible fungal infection, eumycetoma.
 The project uses open source principles, meaning that you can get involved as a full partner.
 
-We started on February 6th 2018. Press release. One-page description of the whole idea. [The first paper that serves as a launchpad](https://www.biorxiv.org/content/early/2018/02/02/258905).
+We started on February 6th 2018. [Press release](https://github.com/OpenSourceMycetoma/Talks-Meetings-Publicity/blob/master/Press%20Release/MycetOS%20news%20release_5Feb2018_FINAL.docx). [One-page description of the whole idea](https://github.com/OpenSourceMycetoma/Talks-Meetings-Publicity/blob/master/One-Page%20MycetOS%20Explainer/MycetOS%20-%20Open%20Source%20Mycetoma%20v2.pdf). [The first paper that serves as a launchpad](https://www.biorxiv.org/content/early/2018/02/02/258905).
 
 # Where to Find Things
 Everything is online. You're looking at the Github community.
