@@ -8,7 +8,7 @@ We started on February 6th 2018. [Press release](https://github.com/OpenSourceMy
 Everything is online. You're looking at the Github community.
 There's also a [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma).
 There's a [Twitter account](https://twitter.com/MycetOS).
-A chemist, Hung Duong, has been working on the project in 2017. His [lab notebook is public](http://tinyurl.com/MyOS-HungELN), as is his thesis.
+A chemist, Hung Duong, worked on the project in 2017. His [lab notebook is public](http://tinyurl.com/MyOS-HungELN), as is his [thesis](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols/blob/master/Theses%20Reports%20Docs/Hung%20Duong%20Hons%20Thesis/Thesis-DUONG-2017.pdf). Another Honours student, Matthew O'Dowd, also has his [lab notebook online](https://tinyurl.com/MyOS-MattELN).
 The molecules related to the project are all in a [spreadsheet](http://tinyurl.com/MycetomaMols).
 Background to the project will gradually be placed on the wiki (link above), but each series of molecules will have its own wiki in its own repository.
 
