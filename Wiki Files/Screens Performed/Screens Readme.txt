@@ -1,0 +1,1 @@
+This folder can contain all the files related to wiki pages on screens performed vs mycetoma
