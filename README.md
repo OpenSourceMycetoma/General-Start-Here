@@ -20,3 +20,5 @@ If things aren't clear, get in touch on [Twitter](https://twitter.com/MycetOS) (
 
 # Who is MycetOS?
 Anyone can be an equal partner. It was started by Wendy van de Sande (Erasmus University Medical Center, Rotterdam), Ben Perry (@MrBenGP) and Jean-Robert Ioset (Drugs for Neglected Diseases Initiative, Geneva) and Matthew Todd (The University of Sydney, @mattoddchem). Contact person on Github is @mattodd.
+
+Unless otherwise stated, all content in Open Source Mycetoma is governed by a Creative Commons CC-BY-4.0 licence.
