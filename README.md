@@ -19,10 +19,9 @@ You can find online lab notebooks from various members of the MycetOS group [her
 ## What Can You Do?
 Take a look at the open issues on the repository [here](https://github.com/OpenSourceMycetoma/What-other-molecules-to-screen/issues) and join the conversation. This is a collection of ideas, suggestions and questions that we're looking for help with. 
 
-Or just come along to a monthly meeting - the 2024 roster can be found [here](https://github.com/OpenSourceMycetoma/Monthly-zoom-meetings/issues/2). 
+Or just come along to a monthly meeting - the 2026 roster can be found [here](https://github.com/OpenSourceMycetoma/Monthly-zoom-meetings/issues/2). 
 
-Alternatively take a look at the [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma).
-If things aren't clear, get in touch on [Twitter](https://twitter.com/MycetOS) (vastly preferred, since it's public) or email (non-preferred, because private. It's opensourcemycetoma@gmail.com).
+Alternatively take a look at the [LinkedIn page](https://www.linkedin.com/company/mycetos/about/). You can reach out to us there or via email at opensourcemycetoma@gmail.com.
 
 # Who is MycetOS?
 Anyone can be an equal partner. It was started by Wendy van de Sande (Erasmus University Medical Center, Rotterdam), Ben Perry (@MrBenGP) and Jean-Robert Ioset (Drugs for Neglected Diseases Initiative, Geneva) and Matthew Todd (The University of Sydney, @mattoddchem). Contact person on Github is @mattodd.
