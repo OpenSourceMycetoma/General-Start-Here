@@ -6,7 +6,7 @@ We started on February 6th 2018. [Press release](https://github.com/OpenSourceMy
 The first newsletter is [here](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols/issues/43) and you can [sign up for more](https://forms.gle/hHvURWKJQTymhJ9p7).
 
 ## Where to Find Things
-Everything is online. You're looking at the Github community. There's socmed activity on LinkedIn. (need a link)
+Everything is online. You're looking at the Github community. There's socmed activity on [LinkedIn](https://www.linkedin.com/company/mycetos/).
 When we started, we tried a [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma) and we used to use a [Twitter account](https://twitter.com/MycetOS), but these are mothballed.
 
 You can go to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project, or jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation. Each series functions a little differently depending on what stage they're at, but in general we communicate through issues, while the Wiki acts as a more permanent storage for relevant links and data. 
