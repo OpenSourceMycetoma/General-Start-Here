@@ -6,10 +6,10 @@ We started on February 6th 2018. [Press release](https://github.com/OpenSourceMy
 The first newsletter is [here](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols/issues/43) and you can [sign up for more](https://forms.gle/hHvURWKJQTymhJ9p7).
 
 ## Where to Find Things
-Everything is online. You're looking at the Github community. There's socmed activity on [LinkedIn](https://www.linkedin.com/company/mycetos/).
+Everything is online. You're looking at the Github community. There's social media activity on [LinkedIn](https://www.linkedin.com/company/mycetos/).
 When we started, we tried a [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma) and we used to use a [Twitter account](https://twitter.com/MycetOS), but these are mothballed.
 
-You can go to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project, or jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation. Each series functions a little differently depending on what stage they're at, but in general we communicate through issues, while the Wiki acts as a more permanent storage for relevant links and data. 
+You can go to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project and see our most recent updates. Or you can jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation - each series functions a little differently depending on what stage they're at, but in general we communicate through issues, while the Wiki acts as a more permanent storage for relevant links and data. 
 
 The molecules related to the project are all in a [spreadsheet](http://tinyurl.com/MycetomaMols).
 
@@ -23,7 +23,9 @@ Or just come along to a monthly meeting - the 2026 roster can be found [here](ht
 
 Alternatively take a look at the [LinkedIn page](https://www.linkedin.com/company/mycetos/about/). You can reach out to us there or via email at opensourcemycetoma@gmail.com.
 
-# Who is MycetOS?
+## Who is MycetOS?
 Anyone can be an equal partner. It was started by Wendy van de Sande (Erasmus University Medical Center, Rotterdam), Ben Perry (@MrBenGP) and Jean-Robert Ioset (Drugs for Neglected Diseases Initiative, Geneva) and Matthew Todd (The University of Sydney, @mattoddchem). Contact person on Github is @mattodd.
+
+Click [here](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/People) to learn more about the people involved in MycetOS!
 
 Unless otherwise stated, all content in Open Source Mycetoma is governed by a Creative Commons CC-BY-4.0 licence.
