@@ -6,12 +6,12 @@ We started on February 6th 2018. [Press release](https://github.com/OpenSourceMy
 The first newsletter is [here](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols/issues/43) and you can [sign up for more](https://forms.gle/hHvURWKJQTymhJ9p7).
 
 ## Where to Find Things
-Everything is online. You're looking at the Github community. There's social media activity on [LinkedIn](https://www.linkedin.com/company/mycetos/).
-When we started, we tried a [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma) and we used to use a [Twitter account](https://twitter.com/MycetOS), but these are mothballed.
-
-You can go to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project and see our most recent updates. Or you can jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation - each series functions a little differently depending on what stage they're at, but in general we communicate through issues, while the Wiki acts as a more permanent storage for relevant links and data. 
+Everything is online. You're looking at the Github community - head to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out more about the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project, see our most recent updates and learn [how we use GitHub](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/How-we-use-GitHub) to collaborate. Or you can jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation. 
 
 The molecules related to the project are all in a [spreadsheet](http://tinyurl.com/MycetomaMols).
+
+There's social media activity on [LinkedIn](https://www.linkedin.com/company/mycetos/).
+When we started, we tried a [Reddit community](https://www.reddit.com/r/OpenSourceMycetoma) and we used to use a [Twitter account](https://twitter.com/MycetOS), but these are mothballed.
 
 You can find online lab notebooks from various members of the MycetOS group [here](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Online-lab-books), or have a look at journal articles and theses published by the group [here](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Papers-and-theses). 
 
