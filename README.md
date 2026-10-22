@@ -10,7 +10,7 @@ Everything is online. You're looking at the Github community - head to the [Wiki
 
 <img width="710" height="162" alt="Wiki screenshot" src="https://github.com/user-attachments/assets/206ca3a9-b4ce-4817-9a36-288d0fdb6570" />
 
-Check out the [Meetings](https://github.com/orgs/OpenSourceMycetoma/projects/4) tab to see when our next meeting will take place (look under "Current!).
+Check out the [Meetings](https://github.com/orgs/OpenSourceMycetoma/projects/4) tab to see when our next meeting will take place (look under "Current").
 
 The molecules related to the project are all in a [spreadsheet](http://tinyurl.com/MycetomaMols).
 
