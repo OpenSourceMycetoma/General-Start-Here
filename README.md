@@ -6,11 +6,11 @@ We started on February 6th 2018. [Press release](https://github.com/OpenSourceMy
 The first newsletter is [here](https://github.com/OpenSourceMycetoma/Series-1-Fenarimols/issues/43) and you can [sign up for more](https://forms.gle/hHvURWKJQTymhJ9p7).
 
 ## Where to Find Things
-Everything is online. You're looking at the Github community - head to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out more about the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project, see our most recent updates and learn [how we use GitHub](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/How-we-use-GitHub) to collaborate. Or you can jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation. 
-
-Check out the [Meetings](https://github.com/orgs/OpenSourceMycetoma/projects/4) tab to see when our next meeting will take place (look under "Current!). 
+Everything is online. You're looking at the Github community - head to the [Wiki](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki) to find out more about the [background](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Current-treatments-for-eumycetoma) of the project, see our most recent updates and learn [how we use GitHub](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/How-we-use-GitHub) to collaborate. Or you can jump straight to looking at the [series](https://github.com/OpenSourceMycetoma/General-Start-Here/wiki/Series-and-other-sources) under investigation.  
 
 <img width="710" height="162" alt="Wiki screenshot" src="https://github.com/user-attachments/assets/206ca3a9-b4ce-4817-9a36-288d0fdb6570" />
+
+Check out the [Meetings](https://github.com/orgs/OpenSourceMycetoma/projects/4) tab to see when our next meeting will take place (look under "Current!).
 
 The molecules related to the project are all in a [spreadsheet](http://tinyurl.com/MycetomaMols).
 
